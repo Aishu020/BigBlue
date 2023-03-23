@@ -4,19 +4,19 @@ Wedeo is a video conferencing platform with realtime video chat abilities.
 
 Technologies Used
 
-React.js
+-> React.js
 
-Redux
+-> Redux
 
-Next.js (SSR)
+-> Next.js (SSR)
 
-Peer.js
+-> Peer.js
 
-Socket.io
+-> Socket.io
 
-MongoDB
+-> MongoDB
 
-Firebase
+-> Firebase
 
 Getting Started
 First, run the development server:
@@ -35,7 +35,7 @@ UI Screenshots
 
 ![image](https://user-images.githubusercontent.com/85669685/227265715-5c15802a-db57-4afa-bd74-0fc5d04ccd7b.png)
 
-3) CONFRENCE PAGE
+3) CONFERENCE PAGE
 
 ![image](https://user-images.githubusercontent.com/85669685/227263884-ca8b0622-4609-42f4-95cf-212f6529be42.png)
 
