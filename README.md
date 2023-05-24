@@ -52,5 +52,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ![image](https://user-images.githubusercontent.com/54268438/114234090-eb348380-999b-11eb-90f7-93b32a375b9e.png)
 
 5. Login/Register
-![image](https://github.com/Aishu020/Wedeo/assets/85669685/1091dfbc-e316-4a37-ba09-ac83003b5b9d)
+![image](https://github.com/Aishu020/Wedeo/assets/85669685/5f521975-3981-49a5-b60d-987f5ef2beb4)
+
 
