@@ -49,7 +49,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## UI Screenshots
 1. Dashboard
-![image](https://user-images.githubusercontent.com/54268438/114233878-9d1f8000-999b-11eb-98cb-93e535a9e90b.png)
+![image](https://github.com/Aishu020/Wedeo/assets/85669685/9d883041-3978-438e-a2ae-a5d5265952c6)
 
 2. Host Meeting
 ![image](https://user-images.githubusercontent.com/54268438/114233971-ba544e80-999b-11eb-8988-c7f558e89133.png)
@@ -61,5 +61,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ![image](https://user-images.githubusercontent.com/54268438/114234090-eb348380-999b-11eb-90f7-93b32a375b9e.png)
 
 5. Login/Register
-![image](https://user-images.githubusercontent.com/54268438/114234163-069f8e80-999c-11eb-9b29-4741c68f98a3.png)
+![image](https://github.com/Aishu020/Wedeo/assets/85669685/1091dfbc-e316-4a37-ba09-ac83003b5b9d)
 
