@@ -1,12 +1,3 @@
-# Wedeo
-![](https://img.shields.io/badge/react-grey?logo=react&link=https://reactjs.org/)
-![](https://img.shields.io/badge/redux-grey?logo=redux&link=https://redux.js.org/)
-![](https://img.shields.io/badge/next.js-grey?logo=next.js&link=https://nextjs.org/)
-![](https://img.shields.io/badge/socket.io-grey?logo=socket.io&link=https://socket.io/)
-![](https://img.shields.io/badge/peer.js-grey?logo=peer.js&link=https://peerjs.com/)
-![](https://img.shields.io/badge/mongodb-grey?logo=mongodb&link=https://www.mongodb.com/)
-![](https://img.shields.io/badge/firebase-grey?logo=firebase&link=https://firebase.google.com/)
-
 ## About
 Wedeo is a video conferencing platform with realtime chat abilities using WebRTC and Web Sockets.
 Live: https://wedeo.netlify.app/
