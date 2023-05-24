@@ -1,5 +1,5 @@
 ## About
-Wedeo is a video conferencing platform with realtime chat abilities using WebRTC and Web Sockets.
+BigBlue is a video conferencing platform with realtime chat abilities using WebRTC and Web Sockets.
 Live: https://wedeo.netlify.app/
 
 ## Technologies Used
